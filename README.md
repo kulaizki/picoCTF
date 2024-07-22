@@ -6,6 +6,7 @@
 ## Reverse Engineering
 - [Bit-O-Asm-1](<Reverse Engineering/bit-o-asm-1.md>)
 - [Bit-O-Asm-2](<Reverse Engineering/bit-o-asm-2.md>)
+- [Bit-O-Asm-3](<Reverse Engineering/bit-o-asm-3.md>)
 
 ## General
 - [Time Machine](General/time-machine.md)
