@@ -11,7 +11,7 @@
 
 ## Cryptography
 - [rotation](Cryptography/rotation.md)
-- [rotation](Cryptography/interencdec.md)
+- [interencdec](Cryptography/interencdec.md)
 
 ## Binary Exploitation
 - [two-sum](<Binary Exploitation/two-sum.md>)
