@@ -14,6 +14,7 @@
 ## Cryptography
 - [rotation](Cryptography/rotation.md)
 - [interencdec](Cryptography/interencdec.md)
+- [ReadMyCert](Cryptography/readmycert.md)
 
 ## Binary Exploitation
 - [two-sum](<Binary Exploitation/two-sum.md>)
