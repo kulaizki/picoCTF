@@ -10,6 +10,7 @@
 - [Bit-O-Asm-1](<Reverse Engineering/bit-o-asm-1.md>)
 - [Bit-O-Asm-2](<Reverse Engineering/bit-o-asm-2.md>)
 - [Bit-O-Asm-3](<Reverse Engineering/bit-o-asm-3.md>)
+- [Ready Gladiator 0](ready-gladiator-0.md)
 
 ## Cryptography
 - [rotation](Cryptography/rotation.md)
