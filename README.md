@@ -24,3 +24,4 @@
 ## General
 - [Time Machine](General/time-machine.md)
 - [Super SSH](General/super-ssh.md)
+- [Commitment Issues](General/commitment-issues.md)
