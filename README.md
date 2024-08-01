@@ -17,6 +17,7 @@
 - [interencdec](Cryptography/interencdec.md)
 - [ReadMyCert](Cryptography/readmycert.md)
 - [basic-mod1](Cryptography/basic-mod1.md)
+- [The Numbers](Cryptography/the-numbers.md)
 
 ## General
 - [Time Machine](General/time-machine.md)
