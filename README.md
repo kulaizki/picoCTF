@@ -24,6 +24,7 @@
 - [Super SSH](General/super-ssh.md)
 - [Commitment Issues](General/commitment-issues.md)
 - [First Find](General/first-find.md)
+- [Glitch Cat](General/glitch-cat.md)
   
 ## Binary Exploitation
 - [two-sum](<Binary Exploitation/two-sum.md>)
