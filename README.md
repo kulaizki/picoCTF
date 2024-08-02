@@ -23,6 +23,7 @@
 - [Time Machine](General/time-machine.md)
 - [Super SSH](General/super-ssh.md)
 - [Commitment Issues](General/commitment-issues.md)
+- [First Find](General/first-find.md)
   
 ## Binary Exploitation
 - [two-sum](<Binary Exploitation/two-sum.md>)
