@@ -15,6 +15,7 @@
 - [Ready Gladiator 0](ready-gladiator-0.md)
 
 ## Cryptography
+- [Dachschund Attacks](Cryptography/dachshund-attacks.md)
 - [rotation](Cryptography/rotation.md)
 - [interencdec](Cryptography/interencdec.md)
 - [ReadMyCert](Cryptography/readmycert.md)
