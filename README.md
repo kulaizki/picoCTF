@@ -5,6 +5,7 @@
 - [CanYouSee](Forensics/canyousee.md)
 - [Verify](Forensics/verify.md)
 - [FindAndOpen](Forensics/findandopen.md)
+- [Glory of the Garden](Forensics/glory-of-the-garden.md)
 
 ## Reverse Engineering
 - [Picker I](<Reverse Engineering/picker-i.md>)
