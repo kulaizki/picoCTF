@@ -33,6 +33,7 @@
 - [convertme.py](General/convertme.py.md)
 - [strings it.md](General/strings-it.md)
 - [repetitions](General/repetitions.md)
+- [ASCII Numbers](General/ascii-numbers.md)
   
 ## Binary Exploitation
 - [two-sum](<Binary Exploitation/two-sum.md>)
