@@ -1,4 +1,4 @@
-In this challenge, we are given 2 servers to connect with using netcat. If we connect to the second
+In this challenge, we are given 2 servers to connect with using `netcat` or `nc`. If we connect to the second
 server, we get this:
 
 <img width="1125" alt="image" src="https://github.com/user-attachments/assets/c1acdfd3-1d44-48e1-8867-2151e90a2586">
@@ -47,12 +47,8 @@ and have permission. We can use symlinks to link `banner` to the path of the `fl
 
 <img width="1122" alt="image" src="https://github.com/user-attachments/assets/0e6d2799-84b5-4e4c-8f79-9a0750323f8b">
 
-Now we just have to connect to the server again, so it prints the content inside `flag.txt`.
+Now we have to connect to the server again, so it prints the content inside `flag.txt`.
 
 <img width="1124" alt="image" src="https://github.com/user-attachments/assets/a61224b5-6e6d-4b90-8e48-8391670064af">
 
 And there we find our flag! ;D
-
-
-
-
