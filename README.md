@@ -26,6 +26,7 @@
 
 ## General
 - [Time Machine](General/time-machine.md)
+- [dont-you-love-banners](General/dont-you-love-banners.md)
 - [Super SSH](General/super-ssh.md)
 - [Commitment Issues](General/commitment-issues.md)
 - [First Find](General/first-find.md)
