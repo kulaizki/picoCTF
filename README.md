@@ -42,5 +42,6 @@
 ## Web Exploitation
 - [Bookmarklet](<Web Exploitation/bookmarklet.md>)
 - [Unminify](<Web Exploitation/unminify.md>)
+- [Inspect HTML](<Web Exploitation/inspect-html.md>)
 
 
