@@ -35,13 +35,16 @@
 - [strings it.md](General/strings-it.md)
 - [repetitions](General/repetitions.md)
 - [ASCII Numbers](General/ascii-numbers.md)
-  
-## Binary Exploitation
-- [two-sum](<Binary Exploitation/two-sum.md>)
 
 ## Web Exploitation
 - [Bookmarklet](<Web Exploitation/bookmarklet.md>)
 - [Unminify](<Web Exploitation/unminify.md>)
 - [Inspect HTML](<Web Exploitation/inspect-html.md>)
+- [WebDecode](<Web Exploitation/webdecode.md>)
+
+## Binary Exploitation
+- [two-sum](<Binary Exploitation/two-sum.md>)
+
+
 
 
