@@ -35,6 +35,7 @@
 - [strings it.md](General/strings-it.md)
 - [repetitions](General/repetitions.md)
 - [ASCII Numbers](General/ascii-numbers.md)
+- [Big Zip](General/big-zip.md)
 
 ## Web Exploitation
 - [Bookmarklet](<Web Exploitation/bookmarklet.md>)
