@@ -1,5 +1,5 @@
 ## Forensics
-- [St3g0](Forensics/St3g0.md)
+- [St3g0](Forensics/st3g0.md)
 - [Scan Surprise](Forensics/scan-surprise.md)
 - [Secret of the Polyglot](Forensics/secret-of-the-polyglot.md)
 - [CanYouSee](Forensics/canyousee.md)
