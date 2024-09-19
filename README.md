@@ -10,6 +10,7 @@
 - [Glory of the Garden](Forensics/glory-of-the-garden.md)
 - [What Lies Within](Forensics/what-lies-within.md)
 - [Enhance!](Forensics/enhance!.md)
+- [extensions](Forensics/extensions.md)
 
 ## Reverse Engineering
 - [Picker I](<Reverse Engineering/picker-i.md>)
