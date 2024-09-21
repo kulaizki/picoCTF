@@ -1,5 +1,6 @@
 ## Forensics
 - [like1000](Forensics/like1000.md)
+- [Eavesdrop](Forensics/eavesdrop.md)
 - [hideme](Forensics/hideme.md)
 - [St3g0](Forensics/st3g0.md)
 - [Scan Surprise](Forensics/scan-surprise.md)
