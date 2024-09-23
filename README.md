@@ -13,6 +13,7 @@
 - [Enhance!](Forensics/enhance!.md)
 - [extensions](Forensics/extensions.md)
 - [Lookey here](Forensics/lookey-here.md)
+- [Matryoshka doll](Forensics/matryoshka-doll.md)
 
 ## Reverse Engineering
 - [Picker I](<Reverse Engineering/picker-i.md>)
